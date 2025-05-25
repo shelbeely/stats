@@ -2,19 +2,19 @@
     "name": "Shelbee Johnson ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2256469?v=4",
     "username": "shelbeely",
-    "repoViews": 137,
-    "linesOfCodeChanged": 972176,
-    "linesAdded": 710595,
-    "linesDeleted": 261051,
-    "linesChanged": 530,
-    "totalCommits": 670,
-    "totalPullRequests": 28,
-    "codeByteTotal": 12667650,
+    "repoViews": 273,
+    "linesOfCodeChanged": 972797,
+    "linesAdded": 711079,
+    "linesDeleted": 261172,
+    "linesChanged": 546,
+    "totalCommits": 685,
+    "totalPullRequests": 30,
+    "codeByteTotal": 13139204,
     "topLanguages": [
         {
             "languageName": "Python",
             "color": "#3572A5",
-            "value": 1909840
+            "value": 1913775
         },
         {
             "languageName": "JavaScript",
@@ -55,6 +55,11 @@
             "languageName": "Hack",
             "color": "#878787",
             "value": 3763
+        },
+        {
+            "languageName": "Kotlin",
+            "color": "#A97BFF",
+            "value": 467619
         },
         {
             "languageName": "Batchfile",
@@ -99,16 +104,16 @@
     ],
     "forkCount": 3,
     "starCount": 13,
-    "totalContributions": 582,
+    "totalContributions": 601,
     "contributionsCollection": {
-        "totalCommitContributions": 219,
+        "totalCommitContributions": 234,
         "restrictedContributionsCount": 332,
         "totalIssueContributions": 5,
-        "totalRepositoryContributions": 22,
-        "totalPullRequestContributions": 3,
+        "totalRepositoryContributions": 24,
+        "totalPullRequestContributions": 5,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 582,
+            "totalContributions": 601,
             "weeks": [
                 {
                     "contributionDays": [
@@ -21449,8 +21454,16 @@
                             "date": "2025-05-23"
                         },
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 19,
                             "date": "2025-05-24"
+                        }
+                    ]
+                },
+                {
+                    "contributionDays": [
+                        {
+                            "contributionCount": 0,
+                            "date": "2025-05-25"
                         }
                     ]
                 }
@@ -21459,5 +21472,5 @@
     },
     "closedIssues": 4,
     "openIssues": 1,
-    "fetchedAt": 1748089862460
+    "fetchedAt": 1748176284337
 }
