@@ -2,14 +2,14 @@
     "name": "Shelbee Johnson ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2256469?v=4",
     "username": "shelbeely",
-    "repoViews": 269,
-    "linesOfCodeChanged": 972872,
-    "linesAdded": 711123,
-    "linesDeleted": 261199,
-    "linesChanged": 550,
-    "totalCommits": 687,
+    "repoViews": 306,
+    "linesOfCodeChanged": 972897,
+    "linesAdded": 711137,
+    "linesDeleted": 261209,
+    "linesChanged": 551,
+    "totalCommits": 688,
     "totalPullRequests": 30,
-    "codeByteTotal": 13139204,
+    "codeByteTotal": 13198393,
     "topLanguages": [
         {
             "languageName": "Python",
@@ -24,7 +24,7 @@
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 459783
+            "value": 518972
         },
         {
             "languageName": "Jupyter Notebook",
@@ -104,16 +104,16 @@
     ],
     "forkCount": 3,
     "starCount": 13,
-    "totalContributions": 603,
+    "totalContributions": 604,
     "contributionsCollection": {
-        "totalCommitContributions": 236,
+        "totalCommitContributions": 237,
         "restrictedContributionsCount": 332,
         "totalIssueContributions": 5,
         "totalRepositoryContributions": 24,
         "totalPullRequestContributions": 5,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 603,
+            "totalContributions": 604,
             "weeks": [
                 {
                     "contributionDays": [
@@ -21470,8 +21470,12 @@
                             "date": "2025-05-26"
                         },
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 1,
                             "date": "2025-05-27"
+                        },
+                        {
+                            "contributionCount": 0,
+                            "date": "2025-05-28"
                         }
                     ]
                 }
@@ -21480,5 +21484,5 @@
     },
     "closedIssues": 4,
     "openIssues": 1,
-    "fetchedAt": 1748349366712
+    "fetchedAt": 1748435760591
 }
