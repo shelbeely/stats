@@ -3,28 +3,28 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/2256469?v=4",
     "username": "shelbeely",
     "repoViews": 2,
-    "linesOfCodeChanged": 965346,
-    "linesAdded": 714894,
-    "linesDeleted": 249773,
-    "linesChanged": 679,
-    "totalCommits": 825,
+    "linesOfCodeChanged": 969876,
+    "linesAdded": 719164,
+    "linesDeleted": 250006,
+    "linesChanged": 706,
+    "totalCommits": 852,
     "totalPullRequests": 30,
-    "codeByteTotal": 15756735,
+    "codeByteTotal": 21140431,
     "topLanguages": [
         {
             "languageName": "Python",
             "color": "#3572A5",
-            "value": 1919294
+            "value": 2032136
         },
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 7681896
+            "value": 7682204
         },
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 1308005
+            "value": 1339706
         },
         {
             "languageName": "Jupyter Notebook",
@@ -57,59 +57,64 @@
             "value": 3763
         },
         {
+            "languageName": "Dart",
+            "color": "#00B4AB",
+            "value": 3491438
+        },
+        {
+            "languageName": "C++",
+            "color": "#f34b7d",
+            "value": 1049301
+        },
+        {
+            "languageName": "CMake",
+            "color": "#DA3434",
+            "value": 30769
+        },
+        {
+            "languageName": "Swift",
+            "color": "#F05138",
+            "value": 24244
+        },
+        {
+            "languageName": "Ruby",
+            "color": "#701516",
+            "value": 225157
+        },
+        {
+            "languageName": "C",
+            "color": "#555555",
+            "value": 1861
+        },
+        {
+            "languageName": "Kotlin",
+            "color": "#A97BFF",
+            "value": 2332442
+        },
+        {
+            "languageName": "Objective-C",
+            "color": "#438eff",
+            "value": 20694
+        },
+        {
+            "languageName": "Java",
+            "color": "#b07219",
+            "value": 799787
+        },
+        {
+            "languageName": "Shell",
+            "color": "#89e051",
+            "value": 43794
+        },
+        {
             "languageName": "Makefile",
             "color": "#427819",
             "value": 1934
         },
         {
-            "languageName": "C++",
-            "color": "#f34b7d",
-            "value": 27207
-        },
-        {
             "languageName": "QMake",
             "color": null,
             "value": 1034
-        },
-        {
-            "languageName": "Dart",
-            "color": "#00B4AB",
-            "value": 1379708
-        },
-        {
-            "languageName": "Shell",
-            "color": "#89e051",
-            "value": 40792
-        },
-        {
-            "languageName": "Objective-C",
-            "color": "#438eff",
-            "value": 20656
-        },
-        {
-            "languageName": "Swift",
-            "color": "#F05138",
-            "value": 18770
-        },
-        {
-            "languageName": "CMake",
-            "color": "#DA3434",
-            "value": 7703
-        },
-        {
-            "languageName": "Ruby",
-            "color": "#701516",
-            "value": 222377
-        },
-        {
-            "languageName": "Java",
-            "color": "#b07219",
-            "value": 595810
-        },
-        {
-            "languageName": "Kotlin",
-            "color": "#A97BFF",
-            "value": 467619
         },
         {
             "languageName": "Batchfile",
@@ -144,16 +149,16 @@
     ],
     "forkCount": 3,
     "starCount": 13,
-    "totalContributions": 748,
+    "totalContributions": 778,
     "contributionsCollection": {
-        "totalCommitContributions": 372,
+        "totalCommitContributions": 399,
         "restrictedContributionsCount": 335,
         "totalIssueContributions": 5,
-        "totalRepositoryContributions": 30,
+        "totalRepositoryContributions": 33,
         "totalPullRequestContributions": 5,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 748,
+            "totalContributions": 778,
             "weeks": [
                 {
                     "contributionDays": [
@@ -22130,8 +22135,12 @@
                             "date": "2025-10-09"
                         },
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 30,
                             "date": "2025-10-10"
+                        },
+                        {
+                            "contributionCount": 0,
+                            "date": "2025-10-11"
                         }
                     ]
                 }
@@ -22140,5 +22149,5 @@
     },
     "closedIssues": 4,
     "openIssues": 1,
-    "fetchedAt": 1760098031015
+    "fetchedAt": 1760184386058
 }
