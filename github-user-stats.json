@@ -2,29 +2,29 @@
     "name": "Shelbee Johnson ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2256469?v=4",
     "username": "shelbeely",
-    "repoViews": 2,
-    "linesOfCodeChanged": 969876,
-    "linesAdded": 719164,
-    "linesDeleted": 250006,
-    "linesChanged": 706,
-    "totalCommits": 852,
+    "repoViews": 5,
+    "linesOfCodeChanged": 969978,
+    "linesAdded": 719219,
+    "linesDeleted": 250052,
+    "linesChanged": 707,
+    "totalCommits": 853,
     "totalPullRequests": 30,
-    "codeByteTotal": 21140431,
+    "codeByteTotal": 54916467,
     "topLanguages": [
         {
             "languageName": "Python",
             "color": "#3572A5",
-            "value": 2032136
+            "value": 2298214
         },
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 7682204
+            "value": 7684745
         },
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 1339706
+            "value": 1359254
         },
         {
             "languageName": "Jupyter Notebook",
@@ -55,6 +55,21 @@
             "languageName": "Hack",
             "color": "#878787",
             "value": 3763
+        },
+        {
+            "languageName": "MDX",
+            "color": "#fcb32c",
+            "value": 33477515
+        },
+        {
+            "languageName": "Jinja",
+            "color": "#a52a22",
+            "value": 5814
+        },
+        {
+            "languageName": "Makefile",
+            "color": "#427819",
+            "value": 6474
         },
         {
             "languageName": "Dart",
@@ -107,11 +122,6 @@
             "value": 43794
         },
         {
-            "languageName": "Makefile",
-            "color": "#427819",
-            "value": 1934
-        },
-        {
             "languageName": "QMake",
             "color": null,
             "value": 1034
@@ -149,16 +159,16 @@
     ],
     "forkCount": 3,
     "starCount": 13,
-    "totalContributions": 778,
+    "totalContributions": 780,
     "contributionsCollection": {
-        "totalCommitContributions": 399,
+        "totalCommitContributions": 400,
         "restrictedContributionsCount": 335,
         "totalIssueContributions": 5,
-        "totalRepositoryContributions": 33,
+        "totalRepositoryContributions": 34,
         "totalPullRequestContributions": 5,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 778,
+            "totalContributions": 780,
             "weeks": [
                 {
                     "contributionDays": [
@@ -22139,8 +22149,16 @@
                             "date": "2025-10-10"
                         },
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 2,
                             "date": "2025-10-11"
+                        }
+                    ]
+                },
+                {
+                    "contributionDays": [
+                        {
+                            "contributionCount": 0,
+                            "date": "2025-10-12"
                         }
                     ]
                 }
@@ -22149,5 +22167,5 @@
     },
     "closedIssues": 4,
     "openIssues": 1,
-    "fetchedAt": 1760184386058
+    "fetchedAt": 1760270789548
 }
