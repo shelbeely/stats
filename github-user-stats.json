@@ -2,29 +2,29 @@
     "name": "Shelbee Johnson ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2256469?v=4",
     "username": "shelbeely",
-    "repoViews": 13,
-    "linesOfCodeChanged": 973125,
-    "linesAdded": 722312,
-    "linesDeleted": 250075,
-    "linesChanged": 738,
-    "totalCommits": 886,
+    "repoViews": 16,
+    "linesOfCodeChanged": 973990,
+    "linesAdded": 723146,
+    "linesDeleted": 250091,
+    "linesChanged": 753,
+    "totalCommits": 901,
     "totalPullRequests": 30,
-    "codeByteTotal": 54970685,
+    "codeByteTotal": 55521175,
     "topLanguages": [
         {
             "languageName": "Python",
             "color": "#3572A5",
-            "value": 2298214
+            "value": 2304088
         },
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 7684745
+            "value": 7706540
         },
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 1413472
+            "value": 1427668
         },
         {
             "languageName": "Jupyter Notebook",
@@ -44,7 +44,7 @@
         {
             "languageName": "SCSS",
             "color": "#c6538c",
-            "value": 56093
+            "value": 73258
         },
         {
             "languageName": "TSQL",
@@ -55,6 +55,56 @@
             "languageName": "Hack",
             "color": "#878787",
             "value": 3763
+        },
+        {
+            "languageName": "Ruby",
+            "color": "#701516",
+            "value": 376904
+        },
+        {
+            "languageName": "Haml",
+            "color": "#ece2a9",
+            "value": 18020
+        },
+        {
+            "languageName": "Shell",
+            "color": "#89e051",
+            "value": 44861
+        },
+        {
+            "languageName": "Gherkin",
+            "color": "#5B2063",
+            "value": 262
+        },
+        {
+            "languageName": "Sass",
+            "color": "#a53b70",
+            "value": 221
+        },
+        {
+            "languageName": "Procfile",
+            "color": "#3B2F63",
+            "value": 40
+        },
+        {
+            "languageName": "Java",
+            "color": "#b07219",
+            "value": 921247
+        },
+        {
+            "languageName": "Vue",
+            "color": "#41b883",
+            "value": 178451
+        },
+        {
+            "languageName": "HCL",
+            "color": "#844FBA",
+            "value": 10759
+        },
+        {
+            "languageName": "Scala",
+            "color": "#c22d40",
+            "value": 9433
         },
         {
             "languageName": "MDX",
@@ -92,11 +142,6 @@
             "value": 24244
         },
         {
-            "languageName": "Ruby",
-            "color": "#701516",
-            "value": 225157
-        },
-        {
             "languageName": "C",
             "color": "#555555",
             "value": 1861
@@ -110,16 +155,6 @@
             "languageName": "Objective-C",
             "color": "#438eff",
             "value": 20694
-        },
-        {
-            "languageName": "Java",
-            "color": "#b07219",
-            "value": 799787
-        },
-        {
-            "languageName": "Shell",
-            "color": "#89e051",
-            "value": 43794
         },
         {
             "languageName": "QMake",
@@ -159,16 +194,16 @@
     ],
     "forkCount": 3,
     "starCount": 13,
-    "totalContributions": 821,
+    "totalContributions": 843,
     "contributionsCollection": {
-        "totalCommitContributions": 433,
-        "restrictedContributionsCount": 335,
+        "totalCommitContributions": 447,
+        "restrictedContributionsCount": 338,
         "totalIssueContributions": 9,
-        "totalRepositoryContributions": 38,
+        "totalRepositoryContributions": 43,
         "totalPullRequestContributions": 5,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 821,
+            "totalContributions": 843,
             "weeks": [
                 {
                     "contributionDays": [
@@ -22161,8 +22196,12 @@
                             "date": "2025-10-12"
                         },
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 22,
                             "date": "2025-10-13"
+                        },
+                        {
+                            "contributionCount": 0,
+                            "date": "2025-10-14"
                         }
                     ]
                 }
@@ -22171,5 +22210,5 @@
     },
     "closedIssues": 4,
     "openIssues": 5,
-    "fetchedAt": 1760357236822
+    "fetchedAt": 1760443659270
 }
