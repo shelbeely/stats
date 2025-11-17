@@ -2,14 +2,14 @@
     "name": "Shelbee Johnson ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2256469?v=4",
     "username": "shelbeely",
-    "repoViews": 288,
-    "linesOfCodeChanged": 987354,
-    "linesAdded": 733920,
-    "linesDeleted": 252584,
-    "linesChanged": 850,
-    "totalCommits": 970,
+    "repoViews": 283,
+    "linesOfCodeChanged": 989859,
+    "linesAdded": 736005,
+    "linesDeleted": 252979,
+    "linesChanged": 875,
+    "totalCommits": 994,
     "totalPullRequests": 30,
-    "codeByteTotal": 65326829,
+    "codeByteTotal": 65351832,
     "topLanguages": [
         {
             "languageName": "Python",
@@ -19,7 +19,7 @@
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 8025396
+            "value": 8038759
         },
         {
             "languageName": "TypeScript",
@@ -57,6 +57,11 @@
             "value": 3763
         },
         {
+            "languageName": "Kotlin",
+            "color": "#A97BFF",
+            "value": 2400825
+        },
+        {
             "languageName": "Shell",
             "color": "#89e051",
             "value": 104877
@@ -65,11 +70,6 @@
             "languageName": "Makefile",
             "color": "#427819",
             "value": 6735
-        },
-        {
-            "languageName": "Kotlin",
-            "color": "#A97BFF",
-            "value": 2389185
         },
         {
             "languageName": "Java",
@@ -199,16 +199,16 @@
     ],
     "forkCount": 3,
     "starCount": 13,
-    "totalContributions": 921,
+    "totalContributions": 947,
     "contributionsCollection": {
-        "totalCommitContributions": 495,
-        "restrictedContributionsCount": 361,
+        "totalCommitContributions": 496,
+        "restrictedContributionsCount": 386,
         "totalIssueContributions": 9,
         "totalRepositoryContributions": 50,
         "totalPullRequestContributions": 5,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 921,
+            "totalContributions": 947,
             "weeks": [
                 {
                     "contributionDays": [
@@ -22357,8 +22357,12 @@
                 {
                     "contributionDays": [
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 26,
                             "date": "2025-11-16"
+                        },
+                        {
+                            "contributionCount": 0,
+                            "date": "2025-11-17"
                         }
                     ]
                 }
@@ -22367,5 +22371,5 @@
     },
     "closedIssues": 4,
     "openIssues": 5,
-    "fetchedAt": 1763294795017
+    "fetchedAt": 1763381287592
 }
