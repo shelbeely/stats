@@ -9,21 +9,21 @@
   "twitterUsername": null,
   "websiteUrl": "shelbeely.com",
   "createdAt": "2012-08-31T18:05:55Z",
-  "repoViews": 64,
-  "linesOfCodeChanged": 1064426,
-  "linesAdded": 779132,
-  "linesDeleted": 285294,
-  "commitCount": 931,
-  "totalCommits": 1017,
+  "repoViews": 83,
+  "linesOfCodeChanged": 1065603,
+  "linesAdded": 779764,
+  "linesDeleted": 285839,
+  "commitCount": 945,
+  "totalCommits": 1018,
   "totalPullRequests": 30,
   "totalPullRequestReviews": 1,
-  "codeByteTotal": 74091885,
+  "codeByteTotal": 74083874,
   "topLanguages": [
     {
       "languageName": "MDX",
       "color": "#fcb32c",
       "value": 33477515,
-      "percentage": 45.18
+      "percentage": 45.19
     },
     {
       "languageName": "JavaScript",
@@ -35,7 +35,7 @@
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 7108650,
-      "percentage": 9.59
+      "percentage": 9.6
     },
     {
       "languageName": "Dart",
@@ -58,8 +58,8 @@
     {
       "languageName": "Kotlin",
       "color": "#A97BFF",
-      "value": 2400825,
-      "percentage": 3.24
+      "value": 2392814,
+      "percentage": 3.23
     },
     {
       "languageName": "HTML",
@@ -280,7 +280,7 @@
   "repositoriesContributedTo": 5,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 977,
+  "totalContributions": 978,
   "contributionStats": {
     "longestStreak": 204,
     "currentStreak": 204,
@@ -931,7 +931,7 @@
       },
       {
         "month": "2025-12",
-        "contributions": 8
+        "contributions": 9
       }
     ]
   },
@@ -995,8 +995,8 @@
       {
         "languageName": "Kotlin",
         "color": "#A97BFF",
-        "value": 2400825,
-        "percentage": 3.27
+        "value": 2392814,
+        "percentage": 3.26
       },
       {
         "languageName": "HTML",
@@ -1026,7 +1026,7 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 702,
+    "contributionsThisYear": 703,
     "contributionsLastYear": 0,
     "yearOverYearGrowth": null,
     "mostProductiveMonth": {
@@ -1035,14 +1035,14 @@
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 517,
+    "totalCommitContributions": 518,
     "restrictedContributionsCount": 389,
     "totalIssueContributions": 9,
     "totalRepositoryContributions": 55,
     "totalPullRequestContributions": 5,
     "totalPullRequestReviewContributions": 1,
     "contributionCalendar": {
-      "totalContributions": 977,
+      "totalContributions": 978,
       "weeks": [
         {
           "contributionDays": [
@@ -23279,8 +23279,16 @@
               "date": "2025-12-05"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2025-12-06"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2025-12-07"
             }
           ]
         }
@@ -23421,5 +23429,5 @@
   ],
   "closedIssues": 4,
   "openIssues": 5,
-  "fetchedAt": 1765022805996
+  "fetchedAt": 1765109205219
 }
