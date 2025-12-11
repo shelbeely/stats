@@ -124,6 +124,8 @@ Others              █░░░░░░░░░░░░░░░░░░░
 
 ## 📅 Historical Activity (Pre-2025)
 
+### Year-by-Year Summary
+
 <table>
   <tr>
     <td align="center"><b>2020</b><br/>95 contributions</td>
@@ -138,6 +140,141 @@ Others              █░░░░░░░░░░░░░░░░░░░
     <td align="center"><b>2017</b><br/>2 contributions</td>
   </tr>
 </table>
+
+### Monthly Breakdown by Year
+
+<details>
+<summary><b>2023 (8 contributions)</b></summary>
+
+| Month | Contributions |
+|-------|--------------|
+| November | 7 |
+| December | 1 |
+
+</details>
+
+<details>
+<summary><b>2022 (1 contribution)</b></summary>
+
+| Month | Contributions |
+|-------|--------------|
+| April | 1 |
+
+</details>
+
+<details>
+<summary><b>2021 (13 contributions)</b></summary>
+
+| Month | Contributions |
+|-------|--------------|
+| February | 2 |
+| March | 4 |
+| April | 3 |
+| June | 1 |
+| July | 1 |
+| December | 2 |
+
+</details>
+
+<details>
+<summary><b>2020 (95 contributions)</b></summary>
+
+| Month | Contributions |
+|-------|--------------|
+| January | 89 |
+| March | 3 |
+| October | 2 |
+| November | 1 |
+
+</details>
+
+<details>
+<summary><b>2019 (86 contributions)</b></summary>
+
+| Month | Contributions |
+|-------|--------------|
+| April | 1 |
+| November | 67 |
+| December | 18 |
+
+</details>
+
+<details>
+<summary><b>2018 (5 contributions)</b></summary>
+
+| Month | Contributions |
+|-------|--------------|
+| January | 5 |
+
+</details>
+
+<details>
+<summary><b>2017 (2 contributions)</b></summary>
+
+| Month | Contributions |
+|-------|--------------|
+| September | 1 |
+| December | 1 |
+
+</details>
+
+<details>
+<summary><b>2016 (12 contributions)</b></summary>
+
+| Month | Contributions |
+|-------|--------------|
+| March | 8 |
+| June | 2 |
+| September | 2 |
+
+</details>
+
+<details>
+<summary><b>2015 (35 contributions)</b></summary>
+
+| Month | Contributions |
+|-------|--------------|
+| January | 7 |
+| March | 3 |
+| April | 5 |
+| May | 9 |
+| June | 7 |
+| July | 2 |
+| September | 1 |
+| October | 1 |
+
+</details>
+
+<details>
+<summary><b>2014 (15 contributions)</b></summary>
+
+| Month | Contributions |
+|-------|--------------|
+| September | 8 |
+| October | 2 |
+| November | 5 |
+
+</details>
+
+<details>
+<summary><b>2013 (2 contributions)</b></summary>
+
+| Month | Contributions |
+|-------|--------------|
+| January | 2 |
+
+</details>
+
+<details>
+<summary><b>2012 (1 contribution)</b></summary>
+
+| Month | Contributions |
+|-------|--------------|
+| August | 1 |
+
+</details>
+
+---
 
 **Most Productive Month (Pre-2025):** January 2020 (89 contributions)
 
