@@ -119,6 +119,7 @@ Working on private repositories that showcase specialized development work:
 ### prj-illuminate
 **Private Repository** | **Active Development**
 
+<!-- Update the details below with your project information -->
 A private project focused on [add specific focus area, e.g., web development, API services, data processing, etc.]. This repository represents significant ongoing work with:
 
 - **Primary Language:** [Language used]
