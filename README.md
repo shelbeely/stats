@@ -122,6 +122,29 @@ Others              █░░░░░░░░░░░░░░░░░░░
 
 ---
 
+## 📅 Historical Activity (Pre-2025)
+
+<table>
+  <tr>
+    <td align="center"><b>2020</b><br/>95 contributions</td>
+    <td align="center"><b>2019</b><br/>86 contributions</td>
+    <td align="center"><b>2015</b><br/>35 contributions</td>
+    <td align="center"><b>2021</b><br/>13 contributions</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2016</b><br/>12 contributions</td>
+    <td align="center"><b>2023</b><br/>8 contributions</td>
+    <td align="center"><b>2018</b><br/>5 contributions</td>
+    <td align="center"><b>2017</b><br/>2 contributions</td>
+  </tr>
+</table>
+
+**Most Productive Month (Pre-2025):** January 2020 (89 contributions)
+
+**Total Pre-2025 Contributions:** 275
+
+---
+
 ## 🎯 Open Source Contributions
 
 - **5** repositories contributed to
