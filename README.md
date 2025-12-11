@@ -51,7 +51,7 @@
 
 ---
 
-## 🛠️ Top Languages
+## 🛠️ Top Languages (All-Time)
 
 <table>
   <tr>
