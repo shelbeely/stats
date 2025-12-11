@@ -18,7 +18,7 @@ REPOS_TO_FETCH = [
 def fetch_repo_info(owner, repo_name, token):
     """Fetch repository information from GitHub API."""
     headers = {
-        "Authorization": f"token {token}",
+        "Authorization": f"Bearer {token}",
         "Accept": "application/vnd.github.v3+json"
     }
     
@@ -35,7 +35,7 @@ def fetch_repo_info(owner, repo_name, token):
 def fetch_repo_languages(owner, repo_name, token):
     """Fetch repository languages from GitHub API."""
     headers = {
-        "Authorization": f"token {token}",
+        "Authorization": f"Bearer {token}",
         "Accept": "application/vnd.github.v3+json"
     }
     
@@ -57,7 +57,16 @@ def get_primary_language(languages):
     primary = max(languages.items(), key=lambda x: x[1])
     return primary[0]
 
-def format_repo_section(repo_info, languages):
+def get_private_repo_count():
+    """Get the count of private repos from github-user-stats.json."""
+    try:
+        with open("github-user-stats.json", 'r') as f:
+            stats = json.load(f)
+            return stats.get("repoStats", {}).get("privateRepos", 0)
+    except (FileNotFoundError, json.JSONDecodeError, KeyError):
+        return 0
+
+def format_repo_section(repo_info, languages, private_repo_count):
     """Format repository information for README."""
     name = repo_info.get("name", "Unknown")
     description = repo_info.get("description") or "A private project under active development"
@@ -73,7 +82,7 @@ def format_repo_section(repo_info, languages):
         try:
             created_date = datetime.fromisoformat(created_at.replace('Z', '+00:00'))
             created_year = created_date.strftime("%B %Y")
-        except:
+        except (ValueError, TypeError):
             pass
     
     # Determine status
@@ -94,9 +103,12 @@ def format_repo_section(repo_info, languages):
     if created_year:
         section += f"\n- **Created:** {created_year}"
     
+    # Add private repo count if available
+    private_count_text = f"**{private_repo_count} private repositories**" if private_repo_count > 0 else "private repositories"
+    
     section += f"""
 
-**Contributions:** Part of my **18 private repositories** containing production code, experimental features, and client work. These private repos contribute to the overall statistics shown above, including code metrics and contribution counts.
+**Contributions:** Part of my {private_count_text} containing production code, experimental features, and client work. These private repos contribute to the overall statistics shown above, including code metrics and contribution counts.
 
 > 💡 **Note:** Detailed information about private repositories is not publicly displayed to maintain confidentiality. The aggregate statistics include contributions from all repositories (public + private)."""
     
@@ -143,6 +155,9 @@ def main():
         print("GITHUB_TOKEN environment variable not set", file=sys.stderr)
         sys.exit(1)
     
+    # Get private repo count from stats
+    private_repo_count = get_private_repo_count()
+    
     repo_sections = []
     
     for repo in REPOS_TO_FETCH:
@@ -155,7 +170,7 @@ def main():
             repo_info = fetch_repo_info(owner, name, token)
             if repo_info:
                 languages = fetch_repo_languages(owner, name, token)
-                section = format_repo_section(repo_info, languages)
+                section = format_repo_section(repo_info, languages, private_repo_count)
                 repo_sections.append(section)
                 print(f"Successfully fetched info for {owner}/{name}")
             else:
