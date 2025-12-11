@@ -131,13 +131,19 @@ Others              █░░░░░░░░░░░░░░░░░░░
     <td align="center"><b>2020</b><br/>95 contributions</td>
     <td align="center"><b>2019</b><br/>86 contributions</td>
     <td align="center"><b>2015</b><br/>35 contributions</td>
-    <td align="center"><b>2021</b><br/>13 contributions</td>
+    <td align="center"><b>2014</b><br/>15 contributions</td>
   </tr>
   <tr>
+    <td align="center"><b>2021</b><br/>13 contributions</td>
     <td align="center"><b>2016</b><br/>12 contributions</td>
     <td align="center"><b>2023</b><br/>8 contributions</td>
     <td align="center"><b>2018</b><br/>5 contributions</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2013</b><br/>2 contributions</td>
     <td align="center"><b>2017</b><br/>2 contributions</td>
+    <td align="center"><b>2022</b><br/>1 contribution</td>
+    <td align="center"><b>2012</b><br/>1 contribution</td>
   </tr>
 </table>
 
