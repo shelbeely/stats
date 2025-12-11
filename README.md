@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <b>📍 Washington</b> • <b>🌐 <a href="https://shelbeely.com">shelbeely.com</a></b> • <b>📧 johnsondelbert1@gmail.com</b>
+  <b>📍 Washington</b> • <b>🌐 <a href="https://shelbeely.com">shelbeely.com</a></b>
 </p>
 
 <p align="center">
