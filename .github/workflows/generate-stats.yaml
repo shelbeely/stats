@@ -2,9 +2,9 @@ name: GitHub Profile Stats
 
 on:
   schedule:
-    # run everyday at 12:00 UTC
+    # Run everyday at 12:00 UTC to collect fresh stats
     - cron: "0 12 * * *"
-  workflow_dispatch:
+  workflow_dispatch:  # Allow manual trigger for testing
 
 permissions:
   # Give the default GITHUB_TOKEN write permission to commit and push the
@@ -18,11 +18,24 @@ jobs:
       group: stats-concurrency
       cancel-in-progress: true
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: profile-stats
-        uses: LukeHagar/stats-action@main
+      - name: Collect GitHub profile statistics
+        uses: LukeHagar/stats-action@v1
         env:
+          # Personal Access Token with required scopes:
+          # - read:user (for user profile data)
+          # - repo (for repository stats, views, and PRIVATE REPOS access)
+          # This enables collection of:
+          # - All-time contribution history (including years before 2025)
+          # - Private repository statistics and contributions
+          # - Repository view counts
+          # - Complete contribution calendar data
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Commit and push updated stats
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github stats [skip ci]"
+          file_pattern: "github-user-stats.json README.md"
