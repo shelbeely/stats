@@ -124,6 +124,45 @@ Others              █░░░░░░░░░░░░░░░░░░░
 
 ## 📅 Historical Activity (Pre-2025)
 
+### Overview: Before the "Vibe Coding" Era
+
+From **August 2012** to **December 2024**, spanning **12+ years** of GitHub activity:
+
+<table>
+  <tr>
+    <td align="center"><b>Total Contributions</b><br/>275</td>
+    <td align="center"><b>Repositories Created</b><br/>15</td>
+    <td align="center"><b>Most Active Year</b><br/>2020 (95)</td>
+    <td align="center"><b>Active Years</b><br/>12</td>
+  </tr>
+</table>
+
+### 🔨 Repository Activity
+
+**Created Before 2025:**
+- **15 repositories** (out of 73 total)
+- **5 original projects**
+- **10 forked repositories**
+
+**Notable Pre-2025 Projects:**
+
+| Year | Repository | Type | Language | Notes |
+|------|-----------|------|----------|-------|
+| 2020 | grapesjs | Fork | JavaScript | Web builder framework |
+| 2021 | 11Sec | Fork | HTML | Terminal portfolio |
+| 2021 | Discord-Webhook-IP-Logger | Fork | PHP | Custom webhook logger |
+| 2021 | pwnagotchi-custom-plugins | Fork | Python | Security tool plugins |
+| 2021 | programs | Fork | Python | Python programs collection |
+
+### 💻 Technologies & Languages Used
+
+While specific pre-2025 language statistics aren't separated in the data, based on repository activity, primary languages included:
+
+- **Python** - Security tools, automation scripts
+- **PHP** - Web development projects
+- **JavaScript/HTML** - Web-based applications
+- **Various others** - Exploratory and learning projects
+
 ### Year-by-Year Summary
 
 <table>
@@ -146,6 +185,37 @@ Others              █░░░░░░░░░░░░░░░░░░░
     <td align="center"><b>2012</b><br/>1 contribution</td>
   </tr>
 </table>
+
+### 📊 Pre-2025 vs 2025+ Comparison
+
+<table>
+  <tr>
+    <th></th>
+    <th>Pre-2025<br/>(12+ years)</th>
+    <th>2025<br/>(Current year)</th>
+    <th>Growth</th>
+  </tr>
+  <tr>
+    <td><b>Contributions</b></td>
+    <td align="center">275</td>
+    <td align="center">707</td>
+    <td align="center">🚀 +157%</td>
+  </tr>
+  <tr>
+    <td><b>Repositories</b></td>
+    <td align="center">15</td>
+    <td align="center">58</td>
+    <td align="center">🚀 +287%</td>
+  </tr>
+  <tr>
+    <td><b>Avg per Month</b></td>
+    <td align="center">~2</td>
+    <td align="center">~59</td>
+    <td align="center">🔥 +2850%</td>
+  </tr>
+</table>
+
+**Observation:** 2025 marks a significant shift in activity — this is the "vibe coding" era! 🎯
 
 ### Monthly Breakdown by Year
 
