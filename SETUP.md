@@ -181,7 +181,7 @@ The `github-user-stats.json` file contains all data, but the README.md only disp
 
 If you encounter issues:
 
-1. Check the [workflow runs](../../actions) for error messages
+1. Go to the **Actions** tab in your repository and check the workflow runs for error messages
 2. Review the [stats-action documentation](https://github.com/LukeHagar/stats-action)
 3. Verify your token scopes match the requirements above
 4. Ensure your token hasn't expired
