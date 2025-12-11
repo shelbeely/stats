@@ -112,6 +112,28 @@ Others              █░░░░░░░░░░░░░░░░░░░
 
 ---
 
+## 🔒 Featured Private Projects
+
+Working on private repositories that showcase specialized development work:
+
+### prj-illuminate
+**Private Repository** | **Active Development**
+
+A private project focused on [add specific focus area, e.g., web development, API services, data processing, etc.]. This repository represents significant ongoing work with:
+
+- **Primary Language:** [Language used]
+- **Status:** Active development
+- **Focus Areas:**
+  - [Key feature or component 1]
+  - [Key feature or component 2]
+  - [Key feature or component 3]
+
+**Contributions:** Part of my **18 private repositories** containing production code, experimental features, and client work. These private repos contribute to the overall statistics shown above, including code metrics and contribution counts.
+
+> 💡 **Note:** Detailed information about private repositories is not publicly displayed to maintain confidentiality. The aggregate statistics include contributions from all repositories (public + private).
+
+---
+
 ## 📈 This Year's Highlights (2025)
 
 - 🎯 **706 contributions** and counting!

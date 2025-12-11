@@ -177,6 +177,38 @@ With the correct token permissions, the action collects:
 
 The `github-user-stats.json` file contains all data, but the README.md only displays public information. You control what gets displayed by editing the README template.
 
+## Showcasing Private Repository Work
+
+While the stats action collects data from all your repositories (public + private), the automated README only displays the top 10 repositories by stars. If you want to highlight specific private projects:
+
+### Option 1: Manual Section (Recommended for Privacy)
+
+Add a dedicated section to your README.md to describe private work without exposing sensitive details:
+
+```markdown
+## 🔒 Featured Private Projects
+
+### my-private-project
+**Private Repository** | **Active Development**
+
+Description of the project focus and technologies used, without exposing confidential information.
+```
+
+**Benefits:**
+- Full control over what information is shared
+- Can highlight specific projects regardless of star count
+- Maintains confidentiality while showing active work
+
+### Option 2: Understanding the Data
+
+The `topRepos` array in `github-user-stats.json` includes both public and private repositories, sorted by stars. Private repos are marked with `"isPrivate": true`. You can:
+
+1. Review the `github-user-stats.json` file (not committed to public repos by default)
+2. See which private repos have the most activity
+3. Manually add descriptions of those projects to your README
+
+**Important:** Be cautious about exposing private repository names or details in your public README. The aggregate statistics (contribution counts, language usage, etc.) already include your private repository activity.
+
 ## Support
 
 If you encounter issues:
