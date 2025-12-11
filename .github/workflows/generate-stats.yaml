@@ -34,6 +34,19 @@ jobs:
           # - Complete contribution calendar data
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: pip install requests
+
+      - name: Fetch private repository information
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: python scripts/fetch-private-repo-info.py
+
       - name: Commit and push updated stats
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
