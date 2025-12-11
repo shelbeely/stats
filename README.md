@@ -117,7 +117,7 @@ Others              ██░░░░░░░░░░░░░░░░░░
 - 🎯 **706 contributions** and counting!
 - 📦 **58 new repositories** created
 - 🔥 **207-day contribution streak** maintained
-- 💻 Primary language: **MDX** (45.58% of code)
+- 💻 Primary language this year: **MDX** (45.58% of 2025 code)
 - 📊 Contributing to **5 repositories**
 
 ---
