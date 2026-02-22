@@ -9,188 +9,218 @@
   "twitterUsername": null,
   "websiteUrl": "shelbeely.com",
   "createdAt": "2012-08-31T18:05:55Z",
-  "repoViews": 382,
-  "linesOfCodeChanged": 1120543,
-  "linesAdded": 820014,
-  "linesDeleted": 300529,
-  "commitCount": 1000,
-  "totalCommits": 1022,
-  "totalPullRequests": 30,
-  "totalPullRequestReviews": 1,
-  "codeByteTotal": 74087536,
+  "repoViews": 827,
+  "linesOfCodeChanged": 6750786,
+  "linesAdded": 4016688,
+  "linesDeleted": 2734098,
+  "commitCount": 1937,
+  "totalCommits": 1139,
+  "totalPullRequests": 32,
+  "totalPullRequestReviews": 3,
+  "codeByteTotal": 116498243,
   "topLanguages": [
     {
       "languageName": "MDX",
       "color": "#fcb32c",
       "value": 33477515,
-      "percentage": 45.19
+      "percentage": 28.74
     },
     {
-      "languageName": "JavaScript",
-      "color": "#f1e05a",
-      "value": 8315298,
-      "percentage": 11.22
+      "languageName": "Rust",
+      "color": "#dea584",
+      "value": 15252319,
+      "percentage": 13.09
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 7108650,
-      "percentage": 9.59
+      "value": 13349341,
+      "percentage": 11.46
     },
     {
-      "languageName": "Dart",
-      "color": "#00B4AB",
-      "value": 6756228,
-      "percentage": 9.12
+      "languageName": "JavaScript",
+      "color": "#f1e05a",
+      "value": 9419850,
+      "percentage": 8.09
     },
     {
       "languageName": "Python",
       "color": "#3572A5",
-      "value": 3019648,
-      "percentage": 4.08
+      "value": 8180379,
+      "percentage": 7.02
     },
     {
-      "languageName": "PHP",
-      "color": "#4F5D95",
-      "value": 2534879,
-      "percentage": 3.42
-    },
-    {
-      "languageName": "Kotlin",
-      "color": "#A97BFF",
-      "value": 2396476,
-      "percentage": 3.23
-    },
-    {
-      "languageName": "HTML",
-      "color": "#e34c26",
-      "value": 2352044,
-      "percentage": 3.17
-    },
-    {
-      "languageName": "Go",
-      "color": "#00ADD8",
-      "value": 1889369,
-      "percentage": 2.55
-    },
-    {
-      "languageName": "CSS",
-      "color": "#663399",
-      "value": 1147628,
-      "percentage": 1.55
+      "languageName": "Dart",
+      "color": "#00B4AB",
+      "value": 7700733,
+      "percentage": 6.61
     },
     {
       "languageName": "C++",
       "color": "#f34b7d",
-      "value": 1064775,
-      "percentage": 1.44
+      "value": 6283783,
+      "percentage": 5.39
+    },
+    {
+      "languageName": "Kotlin",
+      "color": "#A97BFF",
+      "value": 4860965,
+      "percentage": 4.17
+    },
+    {
+      "languageName": "HTML",
+      "color": "#e34c26",
+      "value": 3384437,
+      "percentage": 2.91
+    },
+    {
+      "languageName": "PHP",
+      "color": "#4F5D95",
+      "value": 2757211,
+      "percentage": 2.37
+    },
+    {
+      "languageName": "C",
+      "color": "#555555",
+      "value": 2603117,
+      "percentage": 2.23
+    },
+    {
+      "languageName": "Go",
+      "color": "#00ADD8",
+      "value": 2359962,
+      "percentage": 2.03
     },
     {
       "languageName": "Java",
       "color": "#b07219",
-      "value": 941171,
-      "percentage": 1.27
+      "value": 2161803,
+      "percentage": 1.86
     },
     {
-      "languageName": "C#",
-      "color": "#178600",
-      "value": 897357,
-      "percentage": 1.21
+      "languageName": "CSS",
+      "color": "#663399",
+      "value": 1444796,
+      "percentage": 1.24
     },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
-      "value": 605240,
-      "percentage": 0.82
+      "value": 885665,
+      "percentage": 0.76
     },
     {
       "languageName": "Ruby",
       "color": "#701516",
-      "value": 377289,
-      "percentage": 0.51
-    },
-    {
-      "languageName": "SCSS",
-      "color": "#c6538c",
-      "value": 242804,
-      "percentage": 0.33
+      "value": 393360,
+      "percentage": 0.34
     },
     {
       "languageName": "Vue",
       "color": "#41b883",
-      "value": 178451,
-      "percentage": 0.24
+      "value": 385971,
+      "percentage": 0.33
+    },
+    {
+      "languageName": "Shell",
+      "color": "#89e051",
+      "value": 363198,
+      "percentage": 0.31
+    },
+    {
+      "languageName": "SCSS",
+      "color": "#c6538c",
+      "value": 264563,
+      "percentage": 0.23
     },
     {
       "languageName": "AutoIt",
       "color": "#1C3552",
       "value": 159978,
-      "percentage": 0.22
+      "percentage": 0.14
     },
     {
       "languageName": "TSQL",
       "color": "#e38c00",
       "value": 159695,
-      "percentage": 0.22
-    },
-    {
-      "languageName": "Shell",
-      "color": "#89e051",
-      "value": 115991,
-      "percentage": 0.16
+      "percentage": 0.14
     },
     {
       "languageName": "ActionScript",
       "color": "#882B0F",
       "value": 97871,
-      "percentage": 0.13
-    },
-    {
-      "languageName": "Batchfile",
-      "color": "#C1F12E",
-      "value": 34336,
-      "percentage": 0.05
-    },
-    {
-      "languageName": "Swift",
-      "color": "#F05138",
-      "value": 31948,
-      "percentage": 0.04
+      "percentage": 0.08
     },
     {
       "languageName": "CMake",
       "color": "#DA3434",
-      "value": 31150,
+      "value": 94234,
+      "percentage": 0.08
+    },
+    {
+      "languageName": "EJS",
+      "color": "#a91e50",
+      "value": 81559,
+      "percentage": 0.07
+    },
+    {
+      "languageName": "PLpgSQL",
+      "color": "#336790",
+      "value": 44549,
       "percentage": 0.04
+    },
+    {
+      "languageName": "Dockerfile",
+      "color": "#384d54",
+      "value": 38825,
+      "percentage": 0.03
+    },
+    {
+      "languageName": "GLSL",
+      "color": "#5686a5",
+      "value": 37738,
+      "percentage": 0.03
+    },
+    {
+      "languageName": "Batchfile",
+      "color": "#C1F12E",
+      "value": 36098,
+      "percentage": 0.03
+    },
+    {
+      "languageName": "Swift",
+      "color": "#F05138",
+      "value": 33593,
+      "percentage": 0.03
+    },
+    {
+      "languageName": "C#",
+      "color": "#178600",
+      "value": 26914,
+      "percentage": 0.02
     },
     {
       "languageName": "Visual Basic .NET",
       "color": "#945db7",
       "value": 25068,
-      "percentage": 0.03
+      "percentage": 0.02
     },
     {
       "languageName": "Objective-C",
       "color": "#438eff",
       "value": 20694,
-      "percentage": 0.03
+      "percentage": 0.02
     },
     {
       "languageName": "Less",
       "color": "#1d365d",
       "value": 19988,
-      "percentage": 0.03
+      "percentage": 0.02
     },
     {
       "languageName": "Haml",
       "color": "#ece2a9",
       "value": 18020,
-      "percentage": 0.02
-    },
-    {
-      "languageName": "Dockerfile",
-      "color": "#384d54",
-      "value": 13414,
       "percentage": 0.02
     },
     {
@@ -214,31 +244,37 @@
     {
       "languageName": "Makefile",
       "color": "#427819",
-      "value": 6735,
+      "value": 9078,
+      "percentage": 0.01
+    },
+    {
+      "languageName": "Pascal",
+      "color": "#E3F171",
+      "value": 8478,
+      "percentage": 0.01
+    },
+    {
+      "languageName": "QML",
+      "color": "#44a51c",
+      "value": 8438,
       "percentage": 0.01
     },
     {
       "languageName": "Jinja",
       "color": "#a52a22",
       "value": 5814,
-      "percentage": 0.01
+      "percentage": 0
     },
     {
       "languageName": "Hack",
       "color": "#878787",
       "value": 3763,
-      "percentage": 0.01
-    },
-    {
-      "languageName": "Rust",
-      "color": "#dea584",
-      "value": 2797,
       "percentage": 0
     },
     {
-      "languageName": "C",
-      "color": "#555555",
-      "value": 1861,
+      "languageName": "WGSL",
+      "color": "#1a5e9a",
+      "value": 3641,
       "percentage": 0
     },
     {
@@ -251,6 +287,18 @@
       "languageName": "QMake",
       "color": null,
       "value": 1034,
+      "percentage": 0
+    },
+    {
+      "languageName": "Objective-C++",
+      "color": "#6866fb",
+      "value": 1005,
+      "percentage": 0
+    },
+    {
+      "languageName": "Mako",
+      "color": "#7e858d",
+      "value": 494,
       "percentage": 0
     },
     {
@@ -268,26 +316,32 @@
     {
       "languageName": "Procfile",
       "color": "#3B2F63",
-      "value": 40,
+      "value": 101,
+      "percentage": 0
+    },
+    {
+      "languageName": "Nix",
+      "color": "#7e7eff",
+      "value": 88,
       "percentage": 0
     }
   ],
   "forkCount": 3,
   "starCount": 13,
-  "starsGiven": 142,
-  "followers": 6,
-  "following": 10,
-  "repositoriesContributedTo": 5,
+  "starsGiven": 213,
+  "followers": 10,
+  "following": 11,
+  "repositoriesContributedTo": 7,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 982,
+  "totalContributions": 1742,
   "contributionStats": {
-    "longestStreak": 208,
-    "currentStreak": 208,
+    "longestStreak": 209,
+    "currentStreak": 15,
     "mostActiveDay": "Friday",
-    "averagePerDay": 0.2,
-    "averagePerWeek": 1.41,
-    "averagePerMonth": 6.06,
+    "averagePerDay": 0.35,
+    "averagePerWeek": 2.47,
+    "averagePerMonth": 10.59,
     "monthlyBreakdown": [
       {
         "month": "2012-08",
@@ -899,11 +953,11 @@
       },
       {
         "month": "2025-04",
-        "contributions": 67
+        "contributions": 48
       },
       {
         "month": "2025-05",
-        "contributions": 54
+        "contributions": 51
       },
       {
         "month": "2025-06",
@@ -931,118 +985,126 @@
       },
       {
         "month": "2025-12",
-        "contributions": 13
+        "contributions": 169
+      },
+      {
+        "month": "2026-01",
+        "contributions": 319
+      },
+      {
+        "month": "2026-02",
+        "contributions": 307
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 73,
-    "publicRepos": 55,
-    "privateRepos": 18,
+    "totalRepos": 119,
+    "publicRepos": 90,
+    "privateRepos": 29,
     "archivedRepos": 0,
-    "forkedRepos": 38,
-    "originalRepos": 35,
-    "activeRepos": 66,
+    "forkedRepos": 60,
+    "originalRepos": 59,
+    "activeRepos": 45,
     "reposWithStars": 12,
-    "reposCreatedThisYear": 58,
-    "averageStarsPerRepo": 0.18
+    "reposCreatedThisYear": 38,
+    "averageStarsPerRepo": 0.11
   },
   "computedStats": {
-    "totalRepos": 73,
-    "publicRepos": 55,
-    "privateRepos": 18,
+    "totalRepos": 119,
+    "publicRepos": 90,
+    "privateRepos": 29,
     "archivedRepos": 0,
-    "forkedRepos": 38,
-    "originalRepos": 35,
-    "activeRepos": 66,
+    "forkedRepos": 60,
+    "originalRepos": 59,
+    "activeRepos": 45,
     "reposWithStars": 12,
-    "reposCreatedThisYear": 58,
-    "averageStarsPerRepo": 0.18,
-    "languageCount": 42,
+    "reposCreatedThisYear": 38,
+    "averageStarsPerRepo": 0.11,
+    "languageCount": 51,
     "primaryLanguage": "MDX",
-    "primaryLanguageThisYear": "MDX",
+    "primaryLanguageThisYear": "Rust",
     "topLanguagesThisYear": [
       {
-        "languageName": "MDX",
-        "color": "#fcb32c",
-        "value": 33477515,
-        "percentage": 45.58
-      },
-      {
-        "languageName": "JavaScript",
-        "color": "#f1e05a",
-        "value": 8270808,
-        "percentage": 11.26
-      },
-      {
-        "languageName": "TypeScript",
-        "color": "#3178c6",
-        "value": 7064864,
-        "percentage": 9.62
+        "languageName": "Rust",
+        "color": "#dea584",
+        "value": 15249522,
+        "percentage": 28.47
       },
       {
         "languageName": "Dart",
         "color": "#00B4AB",
-        "value": 6756228,
-        "percentage": 9.2
+        "value": 5623998,
+        "percentage": 10.5
+      },
+      {
+        "languageName": "C++",
+        "color": "#f34b7d",
+        "value": 5267393,
+        "percentage": 9.83
+      },
+      {
+        "languageName": "JavaScript",
+        "color": "#f1e05a",
+        "value": 5203772,
+        "percentage": 9.71
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
-        "value": 2966090,
-        "percentage": 4.04
+        "value": 5150768,
+        "percentage": 9.61
+      },
+      {
+        "languageName": "TypeScript",
+        "color": "#3178c6",
+        "value": 4606012,
+        "percentage": 8.6
       },
       {
         "languageName": "Kotlin",
         "color": "#A97BFF",
-        "value": 2396476,
-        "percentage": 3.26
+        "value": 2927878,
+        "percentage": 5.47
+      },
+      {
+        "languageName": "C",
+        "color": "#555555",
+        "value": 2602681,
+        "percentage": 4.86
+      },
+      {
+        "languageName": "Java",
+        "color": "#b07219",
+        "value": 1813500,
+        "percentage": 3.39
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
-        "value": 2332895,
-        "percentage": 3.18
-      },
-      {
-        "languageName": "PHP",
-        "color": "#4F5D95",
-        "value": 2306872,
-        "percentage": 3.14
-      },
-      {
-        "languageName": "Go",
-        "color": "#00ADD8",
-        "value": 1889369,
-        "percentage": 2.57
-      },
-      {
-        "languageName": "CSS",
-        "color": "#663399",
-        "value": 1081260,
-        "percentage": 1.47
+        "value": 1663328,
+        "percentage": 3.1
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 707,
-    "contributionsLastYear": 0,
-    "yearOverYearGrowth": null,
+    "contributionsThisYear": 626,
+    "contributionsLastYear": 841,
+    "yearOverYearGrowth": -25.56,
     "mostProductiveMonth": {
-      "month": "2025-02",
-      "contributions": 212
+      "month": "2026-01",
+      "contributions": 319
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 522,
-    "restrictedContributionsCount": 389,
-    "totalIssueContributions": 9,
-    "totalRepositoryContributions": 55,
-    "totalPullRequestContributions": 5,
-    "totalPullRequestReviewContributions": 1,
+    "totalCommitContributions": 988,
+    "restrictedContributionsCount": 642,
+    "totalIssueContributions": 11,
+    "totalRepositoryContributions": 90,
+    "totalPullRequestContributions": 7,
+    "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 982,
+      "totalContributions": 1742,
       "weeks": [
         {
           "contributionDays": [
@@ -22219,11 +22281,11 @@
               "date": "2025-04-17"
             },
             {
-              "contributionCount": 6,
+              "contributionCount": 2,
               "date": "2025-04-18"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 0,
               "date": "2025-04-19"
             }
           ]
@@ -22251,11 +22313,11 @@
               "date": "2025-04-24"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 0,
               "date": "2025-04-25"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 0,
               "date": "2025-04-26"
             }
           ]
@@ -22263,7 +22325,7 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 12,
+              "contributionCount": 0,
               "date": "2025-04-27"
             },
             {
@@ -22299,7 +22361,7 @@
               "date": "2025-05-04"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 0,
               "date": "2025-05-05"
             },
             {
@@ -22327,7 +22389,7 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 2,
+              "contributionCount": 0,
               "date": "2025-05-11"
             },
             {
@@ -23303,8 +23365,352 @@
               "date": "2025-12-10"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 14,
               "date": "2025-12-11"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2025-12-12"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2025-12-13"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2025-12-14"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2025-12-15"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2025-12-16"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2025-12-17"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2025-12-18"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2025-12-19"
+            },
+            {
+              "contributionCount": 6,
+              "date": "2025-12-20"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 5,
+              "date": "2025-12-21"
+            },
+            {
+              "contributionCount": 25,
+              "date": "2025-12-22"
+            },
+            {
+              "contributionCount": 19,
+              "date": "2025-12-23"
+            },
+            {
+              "contributionCount": 8,
+              "date": "2025-12-24"
+            },
+            {
+              "contributionCount": 6,
+              "date": "2025-12-25"
+            },
+            {
+              "contributionCount": 13,
+              "date": "2025-12-26"
+            },
+            {
+              "contributionCount": 8,
+              "date": "2025-12-27"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 12,
+              "date": "2025-12-28"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2025-12-29"
+            },
+            {
+              "contributionCount": 36,
+              "date": "2025-12-30"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2025-12-31"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-01"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2026-01-01"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-01-02"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-03"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2026-01-04"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-05"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-06"
+            },
+            {
+              "contributionCount": 21,
+              "date": "2026-01-07"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-08"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-01-09"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-01-10"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2026-01-11"
+            },
+            {
+              "contributionCount": 19,
+              "date": "2026-01-12"
+            },
+            {
+              "contributionCount": 21,
+              "date": "2026-01-13"
+            },
+            {
+              "contributionCount": 4,
+              "date": "2026-01-14"
+            },
+            {
+              "contributionCount": 12,
+              "date": "2026-01-15"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-01-16"
+            },
+            {
+              "contributionCount": 15,
+              "date": "2026-01-17"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 4,
+              "date": "2026-01-18"
+            },
+            {
+              "contributionCount": 9,
+              "date": "2026-01-19"
+            },
+            {
+              "contributionCount": 21,
+              "date": "2026-01-20"
+            },
+            {
+              "contributionCount": 17,
+              "date": "2026-01-21"
+            },
+            {
+              "contributionCount": 10,
+              "date": "2026-01-22"
+            },
+            {
+              "contributionCount": 6,
+              "date": "2026-01-23"
+            },
+            {
+              "contributionCount": 22,
+              "date": "2026-01-24"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 9,
+              "date": "2026-01-25"
+            },
+            {
+              "contributionCount": 19,
+              "date": "2026-01-26"
+            },
+            {
+              "contributionCount": 8,
+              "date": "2026-01-27"
+            },
+            {
+              "contributionCount": 16,
+              "date": "2026-01-28"
+            },
+            {
+              "contributionCount": 19,
+              "date": "2026-01-29"
+            },
+            {
+              "contributionCount": 11,
+              "date": "2026-01-30"
+            },
+            {
+              "contributionCount": 50,
+              "date": "2026-01-31"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 39,
+              "date": "2026-02-01"
+            },
+            {
+              "contributionCount": 3,
+              "date": "2026-02-02"
+            },
+            {
+              "contributionCount": 5,
+              "date": "2026-02-03"
+            },
+            {
+              "contributionCount": 10,
+              "date": "2026-02-04"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-02-05"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-02-06"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-02-07"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 10,
+              "date": "2026-02-08"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-02-09"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-02-10"
+            },
+            {
+              "contributionCount": 9,
+              "date": "2026-02-11"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-02-12"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-02-13"
+            },
+            {
+              "contributionCount": 18,
+              "date": "2026-02-14"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 35,
+              "date": "2026-02-15"
+            },
+            {
+              "contributionCount": 35,
+              "date": "2026-02-16"
+            },
+            {
+              "contributionCount": 28,
+              "date": "2026-02-17"
+            },
+            {
+              "contributionCount": 11,
+              "date": "2026-02-18"
+            },
+            {
+              "contributionCount": 25,
+              "date": "2026-02-19"
+            },
+            {
+              "contributionCount": 22,
+              "date": "2026-02-20"
+            },
+            {
+              "contributionCount": 36,
+              "date": "2026-02-21"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 14,
+              "date": "2026-02-22"
             }
           ]
         }
@@ -23324,6 +23730,19 @@
       "topics": [],
       "updatedAt": "2025-11-29T18:22:38Z",
       "createdAt": "2025-04-06T01:16:45Z"
+    },
+    {
+      "name": "sysc-React",
+      "description": "Terminal animation library for Go. Pure Go animations ready to use in your TUI applications.",
+      "stars": 1,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": true,
+      "isPrivate": false,
+      "primaryLanguage": "Go",
+      "topics": [],
+      "updatedAt": "2026-01-19T14:41:42Z",
+      "createdAt": "2026-01-18T22:00:11Z"
     },
     {
       "name": "mcp-discord",
@@ -23350,19 +23769,6 @@
       "topics": [],
       "updatedAt": "2025-05-08T23:48:57Z",
       "createdAt": "2025-05-01T23:56:16Z"
-    },
-    {
-      "name": "shelbeely.com",
-      "description": null,
-      "stars": 1,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": true,
-      "primaryLanguage": "JavaScript",
-      "topics": [],
-      "updatedAt": "2025-05-12T00:34:23Z",
-      "createdAt": "2025-04-25T20:28:58Z"
     },
     {
       "name": "vscord",
@@ -23443,7 +23849,7 @@
       "createdAt": "2020-10-07T22:11:07Z"
     }
   ],
-  "closedIssues": 4,
-  "openIssues": 5,
-  "fetchedAt": 1765454924264
+  "closedIssues": 5,
+  "openIssues": 6,
+  "fetchedAt": 1771733714352
 }
