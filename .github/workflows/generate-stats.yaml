@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Collect GitHub profile statistics
-        uses: LukasParke/stats-action@f70e248a3bd5590254ffa472eda0c6efc427cfb8 # v0.0.6
+        uses: LukasParke/stats-action@1b17782114cf6e0cbbf66aafd3a542bc9e1d803e # v0.0.6+
         env:
           # Personal Access Token with required scopes:
           # - read:user (for user profile data)
