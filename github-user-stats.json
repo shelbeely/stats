@@ -9,51 +9,51 @@
   "twitterUsername": null,
   "websiteUrl": "shelbeely.com",
   "createdAt": "2012-08-31T18:05:55Z",
-  "repoViews": 827,
-  "linesOfCodeChanged": 6750786,
-  "linesAdded": 4016688,
-  "linesDeleted": 2734098,
-  "commitCount": 1937,
-  "totalCommits": 1139,
+  "repoViews": 974,
+  "linesOfCodeChanged": 6753845,
+  "linesAdded": 4019240,
+  "linesDeleted": 2734605,
+  "commitCount": 1949,
+  "totalCommits": 1144,
   "totalPullRequests": 32,
   "totalPullRequestReviews": 3,
-  "codeByteTotal": 116498243,
+  "codeByteTotal": 116595713,
   "topLanguages": [
     {
       "languageName": "MDX",
       "color": "#fcb32c",
       "value": 33477515,
-      "percentage": 28.74
+      "percentage": 28.71
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
       "value": 15252319,
-      "percentage": 13.09
+      "percentage": 13.08
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 13349341,
-      "percentage": 11.46
+      "percentage": 11.45
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 9419850,
-      "percentage": 8.09
+      "value": 9423662,
+      "percentage": 8.08
     },
     {
       "languageName": "Python",
       "color": "#3572A5",
-      "value": 8180379,
+      "value": 8180770,
       "percentage": 7.02
     },
     {
       "languageName": "Dart",
       "color": "#00B4AB",
       "value": 7700733,
-      "percentage": 6.61
+      "percentage": 6.6
     },
     {
       "languageName": "C++",
@@ -70,14 +70,14 @@
     {
       "languageName": "HTML",
       "color": "#e34c26",
-      "value": 3384437,
-      "percentage": 2.91
+      "value": 3474594,
+      "percentage": 2.98
     },
     {
       "languageName": "PHP",
       "color": "#4F5D95",
       "value": 2757211,
-      "percentage": 2.37
+      "percentage": 2.36
     },
     {
       "languageName": "C",
@@ -89,18 +89,18 @@
       "languageName": "Go",
       "color": "#00ADD8",
       "value": 2359962,
-      "percentage": 2.03
+      "percentage": 2.02
     },
     {
       "languageName": "Java",
       "color": "#b07219",
       "value": 2161803,
-      "percentage": 1.86
+      "percentage": 1.85
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 1444796,
+      "value": 1447906,
       "percentage": 1.24
     },
     {
@@ -334,14 +334,14 @@
   "repositoriesContributedTo": 7,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1742,
+  "totalContributions": 1757,
   "contributionStats": {
     "longestStreak": 209,
     "currentStreak": 15,
     "mostActiveDay": "Friday",
-    "averagePerDay": 0.35,
-    "averagePerWeek": 2.47,
-    "averagePerMonth": 10.59,
+    "averagePerDay": 0.36,
+    "averagePerWeek": 2.49,
+    "averagePerMonth": 10.68,
     "monthlyBreakdown": [
       {
         "month": "2012-08",
@@ -993,7 +993,7 @@
       },
       {
         "month": "2026-02",
-        "contributions": 307
+        "contributions": 322
       }
     ]
   },
@@ -1028,83 +1028,83 @@
         "languageName": "Rust",
         "color": "#dea584",
         "value": 15249522,
-        "percentage": 28.47
+        "percentage": 28.41
       },
       {
         "languageName": "Dart",
         "color": "#00B4AB",
         "value": 5623998,
-        "percentage": 10.5
+        "percentage": 10.48
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 5267393,
-        "percentage": 9.83
+        "percentage": 9.81
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 5203772,
-        "percentage": 9.71
+        "value": 5207584,
+        "percentage": 9.7
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
-        "value": 5150768,
-        "percentage": 9.61
+        "value": 5151159,
+        "percentage": 9.6
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 4606012,
-        "percentage": 8.6
+        "percentage": 8.58
       },
       {
         "languageName": "Kotlin",
         "color": "#A97BFF",
         "value": 2927878,
-        "percentage": 5.47
+        "percentage": 5.46
       },
       {
         "languageName": "C",
         "color": "#555555",
         "value": 2602681,
-        "percentage": 4.86
+        "percentage": 4.85
       },
       {
         "languageName": "Java",
         "color": "#b07219",
         "value": 1813500,
-        "percentage": 3.39
+        "percentage": 3.38
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
-        "value": 1663328,
-        "percentage": 3.1
+        "value": 1753485,
+        "percentage": 3.27
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 626,
+    "contributionsThisYear": 641,
     "contributionsLastYear": 841,
-    "yearOverYearGrowth": -25.56,
+    "yearOverYearGrowth": -23.78,
     "mostProductiveMonth": {
-      "month": "2026-01",
-      "contributions": 319
+      "month": "2026-02",
+      "contributions": 322
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 988,
-    "restrictedContributionsCount": 642,
+    "totalCommitContributions": 989,
+    "restrictedContributionsCount": 656,
     "totalIssueContributions": 11,
     "totalRepositoryContributions": 90,
     "totalPullRequestContributions": 7,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 1742,
+      "totalContributions": 1757,
       "weeks": [
         {
           "contributionDays": [
@@ -23701,7 +23701,7 @@
               "date": "2026-02-20"
             },
             {
-              "contributionCount": 36,
+              "contributionCount": 40,
               "date": "2026-02-21"
             }
           ]
@@ -23709,7 +23709,7 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 14,
+              "contributionCount": 25,
               "date": "2026-02-22"
             }
           ]
@@ -23851,5 +23851,5 @@
   ],
   "closedIssues": 5,
   "openIssues": 6,
-  "fetchedAt": 1771733714352
+  "fetchedAt": 1771762582368
 }
