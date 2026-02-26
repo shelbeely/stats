@@ -177,6 +177,67 @@ With the correct token permissions, the action collects:
 
 The `github-user-stats.json` file contains all data, but the README.md only displays public information. You control what gets displayed by editing the README template.
 
+## Showcasing Private Repository Work
+
+While the stats action collects data from all your repositories (public + private), the automated README only displays the top 10 repositories by stars. If you want to highlight specific private projects:
+
+### Option 1: Automated Private Repository Info (Recommended)
+
+This repository includes a Python script that automatically fetches information about specific private repositories using the GitHub API during the workflow run.
+
+**To add a private repository:**
+
+1. Edit `scripts/fetch-private-repo-info.py`
+2. Add your repository to the `REPOS_TO_FETCH` list:
+   ```python
+   REPOS_TO_FETCH = [
+       {"owner": "your-username", "name": "your-repo-name"},
+   ]
+   ```
+3. Commit and push the changes
+4. The workflow will automatically fetch repository details (name, description, language, creation date) and update the README
+
+**Benefits:**
+- Automatically pulls real repository data (description, language, creation date)
+- Updates on every workflow run
+- Only exposes non-sensitive metadata (no code or commit details)
+- Works with both personal and forked repositories
+
+**What gets displayed:**
+- Repository name and description
+- Primary programming language
+- Creation date
+- Private/Fork status
+- Active development indicator
+
+### Option 2: Manual Section (For Custom Descriptions)
+
+Add a dedicated section to your README.md to describe private work without exposing sensitive details:
+
+```markdown
+## 🔒 Featured Private Projects
+
+### my-private-project
+**Private Repository** | **Active Development**
+
+Description of the project focus and technologies used, without exposing confidential information.
+```
+
+**Benefits:**
+- Full control over what information is shared
+- Can highlight specific projects regardless of star count
+- Maintains confidentiality while showing active work
+
+### Option 3: Understanding the Data
+
+The `topRepos` array in `github-user-stats.json` includes both public and private repositories, sorted by stars. Private repos are marked with `"isPrivate": true`. You can:
+
+1. Review the `github-user-stats.json` file (not committed to public repos by default)
+2. See which private repos have the most activity
+3. Manually add descriptions of those projects to your README
+
+**Important:** Be cautious about exposing private repository names or details in your public README. The aggregate statistics (contribution counts, language usage, etc.) already include your private repository activity.
+
 ## Support
 
 If you encounter issues:
