@@ -9,207 +9,219 @@
   "twitterUsername": null,
   "websiteUrl": "shelbeely.com",
   "createdAt": "2012-08-31T18:05:55Z",
-  "repoViews": 1081,
-  "linesOfCodeChanged": 7287963,
-  "linesAdded": 4357387,
-  "linesDeleted": 2930576,
-  "commitCount": 2378,
-  "totalCommits": 1366,
+  "repoViews": 1206,
+  "linesOfCodeChanged": 7294213,
+  "linesAdded": 4362432,
+  "linesDeleted": 2931781,
+  "commitCount": 2399,
+  "totalCommits": 1372,
   "totalPullRequests": 33,
   "totalPullRequestReviews": 3,
-  "codeByteTotal": 178205665,
+  "codeByteTotal": 417970499,
   "topLanguages": [
+    {
+      "languageName": "SVG",
+      "color": "#ff9900",
+      "value": 236926608,
+      "percentage": 56.69
+    },
     {
       "languageName": "C++",
       "color": "#f34b7d",
       "value": 51699368,
-      "percentage": 29.01
+      "percentage": 12.37
     },
     {
       "languageName": "MDX",
       "color": "#fcb32c",
       "value": 33477515,
-      "percentage": 18.79
+      "percentage": 8.01
     },
     {
       "languageName": "Rust",
       "color": "#dea584",
       "value": 15253544,
-      "percentage": 8.56
+      "percentage": 3.65
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 13862851,
-      "percentage": 7.78
+      "value": 14237225,
+      "percentage": 3.41
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 11482088,
-      "percentage": 6.44
+      "value": 11483360,
+      "percentage": 2.75
     },
     {
       "languageName": "Python",
       "color": "#3572A5",
       "value": 10138449,
-      "percentage": 5.69
+      "percentage": 2.43
     },
     {
       "languageName": "Dart",
       "color": "#00B4AB",
       "value": 7700733,
-      "percentage": 4.32
+      "percentage": 1.84
     },
     {
       "languageName": "Kotlin",
       "color": "#A97BFF",
       "value": 6852833,
-      "percentage": 3.85
+      "percentage": 1.64
     },
     {
       "languageName": "C",
       "color": "#555555",
       "value": 6689084,
-      "percentage": 3.75
+      "percentage": 1.6
     },
     {
       "languageName": "Java",
       "color": "#b07219",
       "value": 6634927,
-      "percentage": 3.72
+      "percentage": 1.59
+    },
+    {
+      "languageName": "Go",
+      "color": "#00ADD8",
+      "value": 4792444,
+      "percentage": 1.15
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
-      "value": 3670382,
-      "percentage": 2.06
+      "value": 3671436,
+      "percentage": 0.88
     },
     {
       "languageName": "PHP",
       "color": "#4F5D95",
       "value": 2757211,
-      "percentage": 1.55
-    },
-    {
-      "languageName": "Go",
-      "color": "#00ADD8",
-      "value": 2359962,
-      "percentage": 1.32
+      "percentage": 0.66
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 1751405,
-      "percentage": 0.98
+      "value": 1756979,
+      "percentage": 0.42
     },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
       "value": 885665,
-      "percentage": 0.5
+      "percentage": 0.21
     },
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 445038,
-      "percentage": 0.25
+      "value": 453708,
+      "percentage": 0.11
     },
     {
       "languageName": "Ruby",
       "color": "#701516",
       "value": 393360,
-      "percentage": 0.22
+      "percentage": 0.09
     },
     {
       "languageName": "SCSS",
       "color": "#c6538c",
       "value": 387474,
-      "percentage": 0.22
+      "percentage": 0.09
     },
     {
       "languageName": "Vue",
       "color": "#41b883",
       "value": 385971,
-      "percentage": 0.22
+      "percentage": 0.09
     },
     {
       "languageName": "CMake",
       "color": "#DA3434",
       "value": 222097,
-      "percentage": 0.12
+      "percentage": 0.05
     },
     {
       "languageName": "AutoIt",
       "color": "#1C3552",
       "value": 159978,
-      "percentage": 0.09
+      "percentage": 0.04
     },
     {
       "languageName": "TSQL",
       "color": "#e38c00",
       "value": 159695,
-      "percentage": 0.09
+      "percentage": 0.04
     },
     {
       "languageName": "Nunjucks",
       "color": "#3d8137",
       "value": 107861,
-      "percentage": 0.06
+      "percentage": 0.03
     },
     {
       "languageName": "NSIS",
       "color": null,
       "value": 102126,
-      "percentage": 0.06
+      "percentage": 0.02
     },
     {
       "languageName": "ActionScript",
       "color": "#882B0F",
       "value": 97871,
-      "percentage": 0.05
+      "percentage": 0.02
     },
     {
       "languageName": "EJS",
       "color": "#a91e50",
       "value": 81559,
-      "percentage": 0.05
+      "percentage": 0.02
     },
     {
       "languageName": "PLpgSQL",
       "color": "#336790",
       "value": 44549,
-      "percentage": 0.02
+      "percentage": 0.01
     },
     {
       "languageName": "Dockerfile",
       "color": "#384d54",
-      "value": 41552,
-      "percentage": 0.02
+      "value": 42656,
+      "percentage": 0.01
     },
     {
       "languageName": "Batchfile",
       "color": "#C1F12E",
       "value": 40176,
-      "percentage": 0.02
+      "percentage": 0.01
     },
     {
       "languageName": "GLSL",
       "color": "#5686a5",
       "value": 37738,
-      "percentage": 0.02
+      "percentage": 0.01
+    },
+    {
+      "languageName": "Makefile",
+      "color": "#427819",
+      "value": 36450,
+      "percentage": 0.01
     },
     {
       "languageName": "Swift",
       "color": "#F05138",
       "value": 33593,
-      "percentage": 0.02
+      "percentage": 0.01
     },
     {
       "languageName": "C#",
       "color": "#178600",
       "value": 26914,
-      "percentage": 0.02
+      "percentage": 0.01
     },
     {
       "languageName": "Visual Basic .NET",
@@ -218,58 +230,52 @@
       "percentage": 0.01
     },
     {
-      "languageName": "Makefile",
-      "color": "#427819",
-      "value": 22754,
-      "percentage": 0.01
-    },
-    {
       "languageName": "Roff",
       "color": "#ecdebe",
       "value": 20697,
-      "percentage": 0.01
+      "percentage": 0
     },
     {
       "languageName": "Objective-C",
       "color": "#438eff",
       "value": 20694,
-      "percentage": 0.01
+      "percentage": 0
     },
     {
       "languageName": "Less",
       "color": "#1d365d",
       "value": 19988,
-      "percentage": 0.01
+      "percentage": 0
     },
     {
       "languageName": "Objective-C++",
       "color": "#6866fb",
       "value": 18662,
-      "percentage": 0.01
+      "percentage": 0
     },
     {
       "languageName": "Haml",
       "color": "#ece2a9",
       "value": 18020,
-      "percentage": 0.01
+      "percentage": 0
     },
     {
       "languageName": "PowerShell",
       "color": "#012456",
       "value": 11141,
-      "percentage": 0.01
+      "percentage": 0
     },
     {
       "languageName": "HCL",
       "color": "#844FBA",
       "value": 10759,
-      "percentage": 0.01
+      "percentage": 0
     },
     {
       "languageName": "Scala",
       "color": "#c22d40",
       "value": 9433,
-      "percentage": 0.01
+      "percentage": 0
     },
     {
       "languageName": "Pascal",
@@ -358,20 +364,20 @@
   ],
   "forkCount": 3,
   "starCount": 15,
-  "starsGiven": 229,
+  "starsGiven": 230,
   "followers": 10,
   "following": 11,
   "repositoriesContributedTo": 7,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 2360,
+  "totalContributions": 2378,
   "contributionStats": {
     "longestStreak": 209,
-    "currentStreak": 34,
+    "currentStreak": 35,
     "mostActiveDay": "Friday",
     "averagePerDay": 0.48,
-    "averagePerWeek": 3.33,
-    "averagePerMonth": 14.29,
+    "averagePerWeek": 3.36,
+    "averagePerMonth": 14.4,
     "monthlyBreakdown": [
       {
         "month": "2012-08",
@@ -1027,118 +1033,118 @@
       },
       {
         "month": "2026-03",
-        "contributions": 364
+        "contributions": 382
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 133,
-    "publicRepos": 97,
+    "totalRepos": 135,
+    "publicRepos": 99,
     "privateRepos": 36,
     "archivedRepos": 0,
-    "forkedRepos": 66,
+    "forkedRepos": 68,
     "originalRepos": 67,
-    "activeRepos": 59,
+    "activeRepos": 61,
     "reposWithStars": 13,
-    "reposCreatedThisYear": 52,
+    "reposCreatedThisYear": 54,
     "averageStarsPerRepo": 0.11
   },
   "computedStats": {
-    "totalRepos": 133,
-    "publicRepos": 97,
+    "totalRepos": 135,
+    "publicRepos": 99,
     "privateRepos": 36,
     "archivedRepos": 0,
-    "forkedRepos": 66,
+    "forkedRepos": 68,
     "originalRepos": 67,
-    "activeRepos": 59,
+    "activeRepos": 61,
     "reposWithStars": 13,
-    "reposCreatedThisYear": 52,
+    "reposCreatedThisYear": 54,
     "averageStarsPerRepo": 0.11,
-    "languageCount": 56,
-    "primaryLanguage": "C++",
-    "primaryLanguageThisYear": "C++",
+    "languageCount": 57,
+    "primaryLanguage": "SVG",
+    "primaryLanguageThisYear": "SVG",
     "topLanguagesThisYear": [
+      {
+        "languageName": "SVG",
+        "color": "#ff9900",
+        "value": 236926608,
+        "percentage": 66.73
+      },
       {
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 50682978,
-        "percentage": 43.97
+        "percentage": 14.28
       },
       {
         "languageName": "Rust",
         "color": "#dea584",
         "value": 15250747,
-        "percentage": 13.23
+        "percentage": 4.3
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 7266010,
-        "percentage": 6.3
+        "value": 7267282,
+        "percentage": 2.05
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 7108838,
-        "percentage": 6.17
+        "percentage": 2
       },
       {
         "languageName": "C",
         "color": "#555555",
         "value": 6688648,
-        "percentage": 5.8
+        "percentage": 1.88
       },
       {
         "languageName": "Java",
         "color": "#b07219",
         "value": 6286624,
-        "percentage": 5.45
+        "percentage": 1.77
       },
       {
         "languageName": "Dart",
         "color": "#00B4AB",
         "value": 5623998,
-        "percentage": 4.88
+        "percentage": 1.58
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 5119522,
-        "percentage": 4.44
+        "value": 5493896,
+        "percentage": 1.55
       },
       {
         "languageName": "Kotlin",
         "color": "#A97BFF",
         "value": 4919746,
-        "percentage": 4.27
-      },
-      {
-        "languageName": "HTML",
-        "color": "#e34c26",
-        "value": 1949273,
-        "percentage": 1.69
+        "percentage": 1.39
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 1244,
+    "contributionsThisYear": 1262,
     "contributionsLastYear": 841,
-    "yearOverYearGrowth": 47.92,
+    "yearOverYearGrowth": 50.06,
     "mostProductiveMonth": {
       "month": "2026-02",
       "contributions": 561
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1065,
-    "restrictedContributionsCount": 1175,
+    "totalCommitContributions": 1066,
+    "restrictedContributionsCount": 1190,
     "totalIssueContributions": 11,
-    "totalRepositoryContributions": 97,
+    "totalRepositoryContributions": 99,
     "totalPullRequestContributions": 8,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 2360,
+      "totalContributions": 2378,
       "weeks": [
         {
           "contributionDays": [
@@ -23827,8 +23833,12 @@
               "date": "2026-03-12"
             },
             {
-              "contributionCount": 7,
+              "contributionCount": 22,
               "date": "2026-03-13"
+            },
+            {
+              "contributionCount": 3,
+              "date": "2026-03-14"
             }
           ]
         }
@@ -23969,5 +23979,5 @@
   ],
   "closedIssues": 5,
   "openIssues": 7,
-  "fetchedAt": 1773404478524
+  "fetchedAt": 1773490666305
 }
