@@ -9,27 +9,27 @@
   "twitterUsername": null,
   "websiteUrl": "shelbeely.com",
   "createdAt": "2012-08-31T18:05:55Z",
-  "repoViews": 989,
-  "linesOfCodeChanged": 4120845,
-  "linesAdded": 2768017,
-  "linesDeleted": 1352828,
-  "commitCount": 2394,
-  "totalCommits": 1570,
+  "repoViews": 978,
+  "linesOfCodeChanged": 6494395,
+  "linesAdded": 3894688,
+  "linesDeleted": 2599707,
+  "commitCount": 2029,
+  "totalCommits": 1577,
   "totalPullRequests": 34,
   "totalPullRequestReviews": 3,
-  "codeByteTotal": 477133388,
+  "codeByteTotal": 477274707,
   "topLanguages": [
     {
       "languageName": "SVG",
       "color": "#ff9900",
       "value": 236926608,
-      "percentage": 49.66
+      "percentage": 49.64
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 64184280,
-      "percentage": 13.45
+      "value": 63984972,
+      "percentage": 13.41
     },
     {
       "languageName": "C++",
@@ -41,7 +41,7 @@
       "languageName": "MDX",
       "color": "#fcb32c",
       "value": 33477515,
-      "percentage": 7.02
+      "percentage": 7.01
     },
     {
       "languageName": "Rust",
@@ -52,8 +52,8 @@
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 12216159,
-      "percentage": 2.56
+      "value": 12419549,
+      "percentage": 2.6
     },
     {
       "languageName": "Python",
@@ -94,7 +94,7 @@
     {
       "languageName": "HTML",
       "color": "#e34c26",
-      "value": 3952510,
+      "value": 3982348,
       "percentage": 0.83
     },
     {
@@ -112,8 +112,8 @@
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 2232700,
-      "percentage": 0.47
+      "value": 2340099,
+      "percentage": 0.49
     },
     {
       "languageName": "Shell",
@@ -370,20 +370,20 @@
   ],
   "forkCount": 3,
   "starCount": 15,
-  "starsGiven": 239,
+  "starsGiven": 240,
   "followers": 11,
   "following": 7,
   "repositoriesContributedTo": 7,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 2989,
+  "totalContributions": 3031,
   "contributionStats": {
     "longestStreak": 209,
-    "currentStreak": 62,
+    "currentStreak": 63,
     "mostActiveDay": "Friday",
-    "averagePerDay": 0.6,
-    "averagePerWeek": 4.2,
-    "averagePerMonth": 18,
+    "averagePerDay": 0.61,
+    "averagePerWeek": 4.26,
+    "averagePerMonth": 18.25,
     "monthlyBreakdown": [
       {
         "month": "2012-08",
@@ -1043,7 +1043,7 @@
       },
       {
         "month": "2026-04",
-        "contributions": 206
+        "contributions": 248
       }
     ]
   },
@@ -1078,13 +1078,13 @@
         "languageName": "SVG",
         "color": "#ff9900",
         "value": 236926608,
-        "percentage": 56.59
+        "percentage": 56.57
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 55440951,
-        "percentage": 13.24
+        "value": 55241643,
+        "percentage": 13.19
       },
       {
         "languageName": "C++",
@@ -1101,8 +1101,8 @@
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 10006146,
-        "percentage": 2.39
+        "value": 10209536,
+        "percentage": 2.44
       },
       {
         "languageName": "Python",
@@ -1138,23 +1138,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 1873,
+    "contributionsThisYear": 1915,
     "contributionsLastYear": 841,
-    "yearOverYearGrowth": 122.71,
+    "yearOverYearGrowth": 127.71,
     "mostProductiveMonth": {
       "month": "2026-03",
       "contributions": 787
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 1094,
-    "restrictedContributionsCount": 1757,
+    "totalCommitContributions": 1095,
+    "restrictedContributionsCount": 1798,
     "totalIssueContributions": 17,
     "totalRepositoryContributions": 109,
     "totalPullRequestContributions": 8,
     "totalPullRequestReviewContributions": 3,
     "contributionCalendar": {
-      "totalContributions": 2989,
+      "totalContributions": 3031,
       "weeks": [
         {
           "contributionDays": [
@@ -23971,8 +23971,12 @@
               "date": "2026-04-09"
             },
             {
-              "contributionCount": 17,
+              "contributionCount": 47,
               "date": "2026-04-10"
+            },
+            {
+              "contributionCount": 12,
+              "date": "2026-04-11"
             }
           ]
         }
@@ -24113,5 +24117,5 @@
   ],
   "closedIssues": 11,
   "openIssues": 7,
-  "fetchedAt": 1775824047875
+  "fetchedAt": 1775910048515
 }
