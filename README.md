@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Member since August 2012 • <b>207-day current streak! 🔥</b>
+  Member since August 2012 • <b>15-day current streak! 🔥</b>
 </p>
 
 ---
@@ -18,36 +18,36 @@
 
 <table>
   <tr>
-    <td align="center"><b>Total Commits</b><br/>1,021</td>
-    <td align="center"><b>Pull Requests</b><br/>30</td>
-    <td align="center"><b>Issues</b><br/>9</td>
-    <td align="center"><b>Contributions (2025)</b><br/>706</td>
+    <td align="center"><b>Total Commits</b><br/>1,139</td>
+    <td align="center"><b>Pull Requests</b><br/>32</td>
+    <td align="center"><b>Issues</b><br/>11</td>
+    <td align="center"><b>Contributions (2026)</b><br/>626</td>
   </tr>
   <tr>
     <td align="center"><b>Stars Received</b><br/>⭐ 13</td>
-    <td align="center"><b>Stars Given</b><br/>⭐ 142</td>
-    <td align="center"><b>Followers</b><br/>👥 6</td>
-    <td align="center"><b>Following</b><br/>👤 10</td>
+    <td align="center"><b>Stars Given</b><br/>⭐ 213</td>
+    <td align="center"><b>Followers</b><br/>👥 10</td>
+    <td align="center"><b>Following</b><br/>👤 11</td>
   </tr>
 </table>
 
 ### 💻 Code Contributions
-- **1,095,565** lines of code changed
-- **796,576** lines added ➕
-- **298,989** lines deleted ➖
-- **74+ MB** of code written across **42 languages**
+- **6,750,786** lines of code changed
+- **4,016,688** lines added ➕
+- **2,734,098** lines deleted ➖
+- **~111 MB** of code written across **51 languages**
 
 ---
 
 ## 🚀 Contribution Activity
 
-- 🔥 **Current Streak:** 207 days
-- 📈 **Longest Streak:** 207 days  
+- 🔥 **Current Streak:** 15 days
+- 📈 **Longest Streak:** 209 days  
 - 📅 **Most Active Day:** Friday
-- 📊 **Average Per Day:** 0.2 contributions
-- 📆 **Average Per Week:** 1.41 contributions
-- 📉 **Average Per Month:** 6.06 contributions
-- 🏆 **Most Productive Month:** February 2025 (212 contributions)
+- 📊 **Average Per Day:** 0.35 contributions
+- 📆 **Average Per Week:** 2.47 contributions
+- 📉 **Average Per Month:** 10.59 contributions
+- 🏆 **Most Productive Month:** January 2026 (319 contributions)
 
 ---
 
@@ -58,20 +58,20 @@
     <td>
       
 ```text
-MDX                 ███████████░░░░░░░░░░░░░░  45.19%
-JavaScript          ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
-TypeScript          ██░░░░░░░░░░░░░░░░░░░░░░░   9.60%
-Dart                ██░░░░░░░░░░░░░░░░░░░░░░░   9.12%
-Python              █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
-PHP                 █░░░░░░░░░░░░░░░░░░░░░░░░   3.42%
-Kotlin              █░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
-HTML                █░░░░░░░░░░░░░░░░░░░░░░░░   3.17%
-Go                  █░░░░░░░░░░░░░░░░░░░░░░░░   2.55%
-CSS                 ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
-C++                 ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
-Java                ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
-C#                  ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
-Others              █░░░░░░░░░░░░░░░░░░░░░░░░   2.95%
+MDX                 ███████░░░░░░░░░░░░░░░░░░  28.74%
+Rust                ███░░░░░░░░░░░░░░░░░░░░░░  13.09%
+TypeScript          ███░░░░░░░░░░░░░░░░░░░░░░  11.46%
+JavaScript          ██░░░░░░░░░░░░░░░░░░░░░░░   8.09%
+Python              ██░░░░░░░░░░░░░░░░░░░░░░░   7.02%
+Dart                ██░░░░░░░░░░░░░░░░░░░░░░░   6.61%
+C++                 █░░░░░░░░░░░░░░░░░░░░░░░░   5.39%
+Kotlin              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+HTML                █░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
+PHP                 █░░░░░░░░░░░░░░░░░░░░░░░░   2.37%
+C                   █░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
+Go                  ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03%
+Java                ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
+Others              █░░░░░░░░░░░░░░░░░░░░░░░░   4.03%
 ```
 
 </td>
@@ -84,20 +84,20 @@ Others              █░░░░░░░░░░░░░░░░░░░
 
 <table>
   <tr>
-    <td align="center"><b>Total Repositories</b><br/>73</td>
-    <td align="center"><b>Public</b><br/>55</td>
-    <td align="center"><b>Private</b><br/>18</td>
-    <td align="center"><b>Forked</b><br/>38</td>
+    <td align="center"><b>Total Repositories</b><br/>119</td>
+    <td align="center"><b>Public</b><br/>90</td>
+    <td align="center"><b>Private</b><br/>29</td>
+    <td align="center"><b>Forked</b><br/>60</td>
   </tr>
   <tr>
-    <td align="center"><b>Original</b><br/>35</td>
-    <td align="center"><b>Active</b><br/>66</td>
+    <td align="center"><b>Original</b><br/>59</td>
+    <td align="center"><b>Active</b><br/>45</td>
     <td align="center"><b>With Stars</b><br/>12</td>
-    <td align="center"><b>Created in 2025</b><br/>58</td>
+    <td align="center"><b>Created in 2026</b><br/>38</td>
   </tr>
 </table>
 
-**Average Stars per Repo:** 0.18 ⭐
+**Average Stars per Repo:** 0.11 ⭐
 
 ---
 
@@ -106,19 +106,20 @@ Others              █░░░░░░░░░░░░░░░░░░░
 | Repository | Language | Stars | Forks | Description |
 |------------|----------|-------|-------|-------------|
 | **[Vox](https://github.com/shelbeely/Vox)** | Python | ⭐ 2 | 🔱 1 | Active since April 2025 |
+| **[sysc-React](https://github.com/shelbeely/sysc-React)** | Go | ⭐ 1 | 🔱 0 | Terminal animation library for Go |
 | **[mcp-discord](https://github.com/shelbeely/mcp-discord)** | Python | ⭐ 1 | 🔱 0 | MCP server for discord bot |
 | **[AutoPlex](https://github.com/shelbeely/AutoPlex)** | Python | ⭐ 1 | 🔱 0 | Active since May 2025 |
 | **[vscord](https://github.com/shelbeely/vscord)** | TypeScript | ⭐ 1 | 🔱 0 | Discord Rich Presence for VS Code |
 
 ---
 
-## 📈 This Year's Highlights (2025)
+## 📈 This Year's Highlights (2026)
 
-- 🎯 **706 contributions** and counting!
-- 📦 **58 new repositories** created
-- 🔥 **207-day contribution streak** maintained
-- 💻 Primary language this year: **MDX** (45.58% of 2025 code)
-- 📊 Contributing to **5 repositories**
+- 🎯 **626 contributions** and counting!
+- 📦 **38 new repositories** created
+- 🔥 **15-day contribution streak** maintained
+- 💻 Primary language this year: **Rust** (28.47% of 2026 code)
+- 📊 Contributing to **7 repositories**
 
 ---
 
@@ -140,7 +141,7 @@ From **August 2012** to **December 2024**, spanning **12+ years** of GitHub acti
 ### 🔨 Repository Activity
 
 **Created Before 2025:**
-- **15 repositories** (out of 73 total)
+- **15 repositories** (out of 119 total)
 - **5 original projects**
 - **10 forked repositories**
 
@@ -192,14 +193,14 @@ While specific pre-2025 language statistics aren't separated in the data, based 
   <tr>
     <th></th>
     <th>Pre-2025<br/>(12+ years)</th>
-    <th>2025<br/>(Current year)</th>
+    <th>2025<br/>(Last year)</th>
     <th>Growth</th>
   </tr>
   <tr>
     <td><b>Contributions</b></td>
     <td align="center">275</td>
-    <td align="center">707</td>
-    <td align="center">🚀 +157%</td>
+    <td align="center">841</td>
+    <td align="center">🚀 +206%</td>
   </tr>
   <tr>
     <td><b>Repositories</b></td>
@@ -210,8 +211,8 @@ While specific pre-2025 language statistics aren't separated in the data, based 
   <tr>
     <td><b>Avg per Month</b></td>
     <td align="center">~2</td>
-    <td align="center">~59</td>
-    <td align="center">🔥 +2850%</td>
+    <td align="center">~70</td>
+    <td align="center">🔥 +3400%</td>
   </tr>
 </table>
 
@@ -360,16 +361,16 @@ While specific pre-2025 language statistics aren't separated in the data, based 
 
 ## 🎯 Open Source Contributions
 
-- **5** repositories contributed to
-- **30** pull requests opened
-- **1** pull request review
-- **4** issues closed
-- **5** issues currently open
+- **7** repositories contributed to
+- **32** pull requests opened
+- **3** pull request reviews
+- **5** issues closed
+- **6** issues currently open
 
 ---
 
 <div align="center">
-  <i>Stats last updated: December 2025</i>
+  <i>Stats last updated: February 2026</i>
   <br/><br/>
   <sub>Generated from <a href="https://github.com/shelbeely/stats">shelbeely/stats</a></sub>
 </div>
